@@ -82,13 +82,3 @@ cryptkit --file stego.png --verbose
 If a solver returns something that itself looks encoded, it loops back through the fingerprinter automatically.
 
 ---
-
-## Why not just use CyberChef
-
-CyberChef is great but you have to know what you're doing with it — you pick the operation, you chain it manually. CryptKit is for when you don't know what you're looking at yet. It makes a guess and works through it for you.
-
----
-
-## License
-
-MIT
