@@ -82,9 +82,9 @@ cryptkit --file stego.png --verbose
 If a solver returns something that itself looks encoded, it loops back through the fingerprinter automatically.
 
 ---
-
-
-Work in progress. CryptKit is still being built out — solver coverage is incomplete and fingerprint detection isn't fully reliable yet. Expect wrong guesses. If something looks off, trust your instincts over the tool.
+Note
+---
+Work in progress. CryptKit is still being built out — solver coverage is incomplete and fingerprint detection isn't fully reliable yet. Expect wrong guesses. If something looks off, feel free to message me so we can work out on a fix :> feel free to use(fix) it though ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 
 ---
