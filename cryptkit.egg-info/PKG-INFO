@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: cryptkit
+Version: 0.1.0
+Summary: A smart CTF crypto & steganography assistant
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: click>=8.1
+Requires-Dist: rich>=13.0
+Requires-Dist: Pillow>=10.0
+Requires-Dist: piexif>=1.1
+Dynamic: license-file
