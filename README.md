@@ -1,5 +1,5 @@
-# CryptKit
-**CTF crypto and steganography toolkit that figures out what you're looking at.**
+# ƈʀʏքȶӄɨȶ
+**CTF cryptography and steganography toolkit that figures out what you're looking at.**
 
 Most of the time in CTFs, half the work is just figuring out *what kind* of challenge you're dealing with before you can even start solving it. CryptKit handles that part — you give it a string, a file, or a hex dump, and it identifies the encoding or cipher type, then runs the right solvers automatically.
 
